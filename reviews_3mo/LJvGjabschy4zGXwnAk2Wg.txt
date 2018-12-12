@@ -1,3 +1,0 @@
-Great food  Lots selection  Big Portion  great alternative buffet  <EOR> 
-
-<stars>3.0</stars>

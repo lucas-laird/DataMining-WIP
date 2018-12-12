@@ -1,3 +1,0 @@
-This practically brand new restaurant   Very clean efficient   haven't Chili cheese dog until you've Wienerschnitzel   Today tried new Sea dog    Its deep fried fish filet lettuce tartar sauce hot dog bun   very good    restaurant also Tastee Freeze ice cream sale well  <EOR> 
-
-<stars>3.5</stars>

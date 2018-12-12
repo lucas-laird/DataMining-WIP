@@ -1,3 +1,0 @@
-Good pizza good calzones Tony owner cool person <EOR> 
-
-<stars>4.0</stars>

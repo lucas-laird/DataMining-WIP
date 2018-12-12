@@ -1,3 +1,0 @@
-The food tastes all other Subways but service painfully slow  If only customer shouldn't take 15 minutes cold sub  place takes fast fast food  <EOR> 
-
-<stars>2.0</stars>

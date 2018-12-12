@@ -1,3 +1,0 @@
-It's Quiznos   mediocre food   conveniently downtown   Convenient mediocrity gets eaten  <EOR> 
-
-<stars>2.5</stars>

@@ -1,3 +1,0 @@
-Standard Pizza Hut  deep dish pizza great  No seating  Great take out  <EOR> 
-
-<stars>2.0</stars>

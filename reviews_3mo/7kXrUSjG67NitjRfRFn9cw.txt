@@ -1,3 +1,0 @@
-It's McDonald's  you'd expect   consistently tasty fast low quality food  <EOR> 
-
-<stars>2.0</stars>

@@ -1,3 +1,0 @@
-Got food poisoning 3 30 13 @6am  Vomiting all morning diarrhea all night  Never eat again  <EOR> 
-
-<stars>1.5</stars>

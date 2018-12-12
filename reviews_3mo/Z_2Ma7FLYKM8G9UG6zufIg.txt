@@ -1,3 +1,0 @@
-Fast food supposed fast   food prep but line of three people took way long  Perhaps manager standing around doing nothing could've taken order  Extra star because haven't Carl's Jr  since moved back east  <EOR> 
-
-<stars>2.5</stars>

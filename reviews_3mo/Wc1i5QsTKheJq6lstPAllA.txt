@@ -1,3 +1,0 @@
-A nice pizza place   Price good pizza bad quick service   Wish thin crust pizza! <EOR> 
-
-<stars>2.0</stars>

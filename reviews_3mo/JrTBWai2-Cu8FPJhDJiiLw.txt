@@ -1,3 +1,0 @@
-Rudeness  happened $5 footlongs? 2 sandwiches = $14!!! sticking California subway prices     2 sandwiches $10 <EOR> 
-
-<stars>3.0</stars>

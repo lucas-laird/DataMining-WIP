@@ -1,3 +1,0 @@
-First time stopped ordered 1 hash brown 2 sausage egg mcmuffin 1 orange juice  work only 1 2 mcmuffins everything else The second time ordered 2 orders only pancakes 4 sausage egg mcmuffin hash brown  home no hash brown inside  shouldn't check if all ordered  Its responsibility sure customer everything order  no longer going McDonalds  <EOR> 
-
-<stars>1.0</stars>

@@ -1,3 +1,0 @@
-Excellent     Employee owner very nice   Food quality very good   Will back try more sure! <EOR> 
-
-<stars>4.0</stars>

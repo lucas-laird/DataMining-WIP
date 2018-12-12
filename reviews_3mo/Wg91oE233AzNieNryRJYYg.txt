@@ -1,3 +1,0 @@
-The service good fast! really nice food delicious!!!   I love Applebees !!!! <EOR> 
-
-<stars>2.5</stars>

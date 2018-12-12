@@ -1,3 +1,0 @@
-Fish sandwich huge!  instead fish n chips   Skip cheese   Great staff very friendly! <EOR> 
-
-<stars>3.5</stars>

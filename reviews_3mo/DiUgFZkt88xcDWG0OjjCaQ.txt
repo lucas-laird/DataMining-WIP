@@ -1,3 +1,0 @@
-They delivered pizza Super Bowl Sunday            It fairly quick but slightly overcooked more salty normal  Three stars      = <EOR> 
-
-<stars>2.5</stars>

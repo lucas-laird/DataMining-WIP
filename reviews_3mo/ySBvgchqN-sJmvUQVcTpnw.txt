@@ -1,3 +1,0 @@
-Cool manager shaved head   Good food quick friendly service  <EOR> 
-
-<stars>2.5</stars>
