@@ -39,10 +39,13 @@ def read_reviews(directory):
     files = os.listdir(directory)
     i = 0
     n = len(files)
+    d = []
     while i < n:
         filename = files[i]
         i = i+1
         if filename.endswith('.txt'):
             filename = directory + '/' + filename
             temp = read_file(filename)
-            yield(temp[0])
+            for i in temp[0]:
+                d.append(i)
+    return(d)
