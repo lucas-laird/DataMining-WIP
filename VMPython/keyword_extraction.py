@@ -1,7 +1,8 @@
-from helper_files.py import *
+from helper_files import *
 import re
 import pickle
 from scipy.linalg import svd
+import numpy as np
 
 def gen_keywordValues(data):
     word_list = []
@@ -40,5 +41,5 @@ for r in results:
     data = r[0]
     keywords = keyword_extraction(data[0])
     filename = business_id + "keywords.pkl"
-    with open("keywords/"+filename) as f:
-        pickle.dump(data)
+    with open("keywords/"+filename,'wb') as f:
+        pickle.dump(data,f)

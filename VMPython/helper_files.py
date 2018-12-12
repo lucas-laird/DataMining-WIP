@@ -46,6 +46,6 @@ def read_reviews(directory):
         if filename.endswith('.txt'):
             filename = directory + '/' + filename
             temp = read_file(filename)
-            for i in temp[0]:
-                d.append(i)
+            for j in temp[0]:
+                d.append(j)
     return(d)
