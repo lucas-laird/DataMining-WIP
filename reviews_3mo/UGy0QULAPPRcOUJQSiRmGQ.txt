@@ -1,0 +1,3 @@
+My first visit Tropical Smoothie Cafe  ordered Kiwi smoothie took 15 minutes it  glad wasn't busy  smoothie good  placed order saw Peanut Butter Chocolate Banana smoothie  If back hope try it  <EOR> 
+
+<stars>3.0</stars>

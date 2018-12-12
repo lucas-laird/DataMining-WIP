@@ -8,7 +8,7 @@ def read_file(filename):
         doc = f.read()
         reviews = doc.split('<EOR>')
     data = [];
-    for r in reviews:
+    for r in reviews[:-1]:
         temp = re.sub(r'([^\s\w]|_)+', '', r)
         temp = temp.split()
         temp = list(filter(lambda a: a != '', temp))
@@ -18,7 +18,9 @@ def read_file(filename):
             if t not in stopWords:
                 temp2.append(t)
         data.append(temp2)
-    return(data)
+    rating = reviews[len(reviews)-1]
+    rating = rating[10:13]
+    return(data,rating)
 
 def read_dir(directory):
     files = os.listdir(directory)
@@ -30,8 +32,8 @@ def read_dir(directory):
         if filename.endswith('.txt'):
             business_id = filename.split('.txt')[0]
             filename = directory + '/' + filename
-            temp = read_file(filename)
-            yield(temp,business_id)
+            data,rating = read_file(filename)
+            yield(data,business_id,rating)
 
 def read_reviews(directory):
     files = os.listdir(directory)
@@ -43,4 +45,4 @@ def read_reviews(directory):
         if filename.endswith('.txt'):
             filename = directory + '/' + filename
             temp = read_file(filename)
-            yield(temp)
+            yield(temp[0])

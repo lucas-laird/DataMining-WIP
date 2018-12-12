@@ -1,0 +1,3 @@
+Excellent food  Steak tacos amazing  Breakfast quesadilla very good healthy  suggest Wheat tortilla egg whites turkey sausage pico de gallo  <EOR> 
+
+<stars>3.5</stars>

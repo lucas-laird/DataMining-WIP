@@ -1,0 +1,3 @@
+I 4 6 times per month   Burritos good   Nachos good   best hole wall places found   Better some other Mexican Fast Food places     Beats heck Taco Bell  <EOR> 
+
+<stars>4.0</stars>

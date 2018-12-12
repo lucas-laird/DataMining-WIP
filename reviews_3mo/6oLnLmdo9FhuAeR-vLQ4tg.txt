@@ -1,0 +1,3 @@
+Delicious  high end sushi bar wealthy area some freshest around  Fancy marble bar plasma TV  Friendly service nice atmosphere very enjoyable experience  <EOR> 
+
+<stars>3.5</stars>

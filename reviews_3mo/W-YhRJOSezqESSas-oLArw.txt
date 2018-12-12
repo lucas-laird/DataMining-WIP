@@ -1,0 +1,3 @@
+This restaurant same people did China Grill but lacks same flair  sandwiches cafe section   admit    but everything else seems little weird   <EOR> 
+
+<stars>2.5</stars>

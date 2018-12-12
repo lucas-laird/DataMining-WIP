@@ -1,0 +1,3 @@
+Very good food    Looking good Chinese food perfect place go    prices little high but worth it  am big eating but Chinese food thing splurge eat every other month    <EOR> 
+
+<stars>3.0</stars>

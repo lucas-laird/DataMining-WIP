@@ -1,0 +1,3 @@
+Great little way Italian restaurant across Palm's hotel   Nothing flashy just good food   If try Oso Buco don't forget try marrow! <EOR> 
+
+<stars>4.0</stars>

@@ -1,0 +1,3 @@
+We tried pork chicken sandwich lunch very satisfying   meat tender sauce good flavor  recommended neighbor   would eat again   Staff very friendly  <EOR> 
+
+<stars>3.5</stars>

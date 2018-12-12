@@ -1,0 +1,3 @@
+this Fridays took place coffee shop Sam's town   specials food great happy hour  bartenders tricks while making drinks  eat bar   <EOR> 
+
+<stars>2.5</stars>

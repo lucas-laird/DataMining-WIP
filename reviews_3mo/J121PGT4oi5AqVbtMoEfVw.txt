@@ -1,0 +1,3 @@
+Pupusas $1 50   $1 only if order least 6 them   Served mixed greens type salsa   Very delicious salsa sauce really gives some dimensions   Great deal pupusas  <EOR> 
+
+<stars>3.5</stars>

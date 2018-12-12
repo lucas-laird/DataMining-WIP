@@ -1,0 +1,3 @@
+The Bleu Gourmet small wine shop cafe good service nice food   great selection wine some cookbooks gadgets located towards back comfortable seating available front  I dined lunch found several items menu sounded good but opted specialty called phazanis seemed cross between calzone wrap   outside nice somewhat thin pizza crust filling chose egg mushroom gruyere ham   Very good    I happy find selection wines glass offered several familiar pleased choice  Prices reasonable would mind returning explore rest menu  <EOR> 
+
+<stars>4.0</stars>

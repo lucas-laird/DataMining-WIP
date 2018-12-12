@@ -1,0 +1,3 @@
+Ordered orange julius disappointed once again     A new worker made drink review ingredients before making it   It tasted horrible     Stick DQ items blizzard  <EOR> 
+
+<stars>3.0</stars>

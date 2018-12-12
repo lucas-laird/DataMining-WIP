@@ -1,0 +1,3 @@
+Great cheeseburger $5  Right next door Charleston Antiques  <EOR> 
+
+<stars>3.5</stars>

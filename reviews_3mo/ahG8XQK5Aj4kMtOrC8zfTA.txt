@@ -1,0 +1,3 @@
+I want comment rotisserie chicken here   best ever had!  full plate mango salsa salad etc  $5   Best deal town! <EOR> 
+
+<stars>3.0</stars>

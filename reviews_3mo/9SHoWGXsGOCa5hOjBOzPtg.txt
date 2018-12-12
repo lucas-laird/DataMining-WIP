@@ -1,0 +1,3 @@
+Overall good satisfaction particular restaurant  Service quick friendly decent lunch special large proportions  enjoyed orange chicken fried rice kind dry but side chow mein included lunch special made <EOR> 
+
+<stars>1.5</stars>

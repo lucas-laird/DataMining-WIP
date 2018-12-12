@@ -1,0 +1,3 @@
+Ma Pa sub shop  liked lot  Good quality meats price  ice cream which nice change  <EOR> 
+
+<stars>3.5</stars>

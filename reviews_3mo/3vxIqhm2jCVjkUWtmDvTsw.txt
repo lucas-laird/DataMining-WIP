@@ -1,0 +1,3 @@
+A fast food review    GOOD FAST FOOD   I honestly try stay clear places drive thrus but can't pass regional fast food doesn't exist your neck woods   This chain only serves chicken fingers its mainly based south  two closest west coast both located Vegas  boast fresh never frozen deal totally tell   The chicken strips really taste homemade white meat juicy chicken dipped batter hand  cook them order strips come fresh hot crispy seriously made someone's kitchen  menu limited they focus chicken fingers meals come crinkle fries texas toast signature dipping sauce  <EOR> 
+
+<stars>4.0</stars>

@@ -1,0 +1,3 @@
+True Middle Eastern food well close without sand  Reasonably priced great lunch  Wish open later <EOR> 
+
+<stars>3.5</stars>

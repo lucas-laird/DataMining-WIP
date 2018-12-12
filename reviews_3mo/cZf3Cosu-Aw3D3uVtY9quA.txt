@@ -1,0 +1,3 @@
+This should 3 1 2 stars   small chain no frills but wasn't bad   chicken chipotle chicken mole gorditas rice beans   chicken mole sauce tastes exactly when am willing spend time it  and rates 5 stars   chicken chipotle bit greasy but overwhelmingly so   beans rice ordinary salsa bar offerings  <EOR> 
+
+<stars>3.5</stars>

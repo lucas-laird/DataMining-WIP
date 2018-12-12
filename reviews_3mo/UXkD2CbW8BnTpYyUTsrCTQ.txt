@@ -1,0 +1,3 @@
+I always preferred Del taco over Taco Bell   BLT Ranch Grilled Chicken Burrito 2 $5    good cheap quick meal  <EOR> 
+
+<stars>3.0</stars>

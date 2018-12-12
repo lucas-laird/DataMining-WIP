@@ -1,0 +1,3 @@
+I love lunch specials here  prices good service quick food tastes great  small hole wall kind place but it  <EOR> 
+
+<stars>3.5</stars>

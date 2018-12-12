@@ -1,0 +1,3 @@
+I really Carl's Wetern Bacon Cheeseburger  Greasy deliciousness! <EOR> 
+
+<stars>3.0</stars>

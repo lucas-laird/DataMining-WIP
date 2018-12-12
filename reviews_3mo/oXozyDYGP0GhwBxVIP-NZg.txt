@@ -1,0 +1,3 @@
+i love place   honest only sandwich   the sausilto bandito   great   always try order something new but always crave one     they also serve pizza salads well  <EOR> 
+
+<stars>3.5</stars>

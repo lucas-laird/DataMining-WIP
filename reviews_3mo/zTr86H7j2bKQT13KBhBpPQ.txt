@@ -1,0 +1,3 @@
+This carls jr corner tropicana mtn vista   the dining area huge   I come lunch sometimes dbl western bacon cheese burger   I give 4 stars <EOR> 
+
+<stars>3.0</stars>

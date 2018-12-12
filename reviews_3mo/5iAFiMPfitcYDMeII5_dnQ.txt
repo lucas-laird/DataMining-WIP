@@ -1,0 +1,3 @@
+I love Auntie Anne's! Generally pretzels soft delicious crispy outside  say pretzels bit salty hence 4 stars  quick snack mall hard day shopping perfect place  <EOR> 
+
+<stars>3.0</stars>

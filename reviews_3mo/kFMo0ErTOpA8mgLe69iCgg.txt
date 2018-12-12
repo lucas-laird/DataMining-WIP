@@ -1,0 +1,3 @@
+You see location Nathan's Famous street   located inside Las Vegas Convention Center   We visited Las Vegas Convention Center 3 days row watch nephew's basketball tournament   During time Nathan's only place open inside there   Suffice say very busy those 3 days   Their hot dogs french fries lemonade okay   Prices bit steep but expected inside Convention center   Overall bad place eat when here  <EOR> 
+
+<stars>3.0</stars>

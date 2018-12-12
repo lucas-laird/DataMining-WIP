@@ -1,0 +1,3 @@
+Seat yourself friendly restaurant   Good burger   Peach cobbler ala mode good   Might want try apple pie next time  <EOR> 
+
+<stars>3.0</stars>

@@ -1,0 +1,3 @@
+Wow place really good   No all you can eat but didn't matter sushi chefs delivered some delicious rolls nigiri   Prices weren't bad   back  <EOR> 
+
+<stars>4.0</stars>

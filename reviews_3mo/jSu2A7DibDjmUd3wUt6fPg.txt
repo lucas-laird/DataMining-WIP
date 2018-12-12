@@ -1,0 +1,3 @@
+First time order pizzeria pizza good full loaded toppings delivery ok quick but understand place busy  I love Italian sub real sub pepperoni most pizzeria das  <EOR> 
+
+<stars>3.5</stars>

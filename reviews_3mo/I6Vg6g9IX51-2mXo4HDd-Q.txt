@@ -1,0 +1,3 @@
+$3 50 drink  Happy hour  midnight something haha can't remember  pretty drunk   Well anyways happy hour $2 drinks $1 buds   Can't remember if pay play pool but remember giving ID balls bartender   Ok pretty sad review  little recollection night  much whiskey kid  <EOR> A typical local bar! Nothing special  Smoker friendly! Drinks good bartenders nice plus machines give play time! Plus lot TV's chances catching game want there! <EOR> 
+
+<stars>3.0</stars>

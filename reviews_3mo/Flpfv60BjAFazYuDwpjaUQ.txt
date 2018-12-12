@@ -1,0 +1,3 @@
+The owner restaurant grocery store cafe super nice  Great hospitality very authentic Ethiopian food  Great coffee well  <EOR> 
+
+<stars>5.0</stars>

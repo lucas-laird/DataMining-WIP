@@ -1,0 +1,3 @@
+Since Big Dog's away watering hole   Good grub drinks clean atmosphere  <EOR> 
+
+<stars>3.5</stars>

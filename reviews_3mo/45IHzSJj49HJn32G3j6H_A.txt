@@ -1,0 +1,3 @@
+this only stand alone hot dog place neighborhood usually really good   this time late everything old bad  even $6 good deal  you would better off going 7 11 taking your chances any old gas station <EOR> 
+
+<stars>1.0</stars>

@@ -1,0 +1,3 @@
+the food good huge portions price saw roach floor pretty unappetizing coffee good  <EOR> 
+
+<stars>4.0</stars>

@@ -1,0 +1,3 @@
+Nice local bar great happy hour  Happy hour starts Midnight offers $99 cent domestic draft beers half off appetizers  three tacos awesome   i would only suggest if want drink midnight southwest then great place <EOR> 
+
+<stars>3.5</stars>

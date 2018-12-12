@@ -1,0 +1,3 @@
+Typical McDonalds menu  Fast service clean tables good parking correct orders  Clean bathroom  Iced coffee half cost coffee shop  more could ask for? <EOR> 
+
+<stars>1.5</stars>

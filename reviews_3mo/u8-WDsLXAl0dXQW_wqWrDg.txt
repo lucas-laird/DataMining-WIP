@@ -1,0 +1,3 @@
+This regular burger place   Good fries and plenty them fairly good patty melt but nothing amazing  <EOR> 
+
+<stars>3.5</stars>

@@ -1,0 +1,3 @@
+$ 35 chicken wings Wednesday!  $5 00 breakfast specials before 6AM <EOR> 
+
+<stars>3.5</stars>

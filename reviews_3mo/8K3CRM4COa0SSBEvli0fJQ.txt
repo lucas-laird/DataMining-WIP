@@ -1,0 +1,3 @@
+I ate several month ago  food very disappointing  tried Mousaka found dried overcooked  emphasis seemed bar  wary food  <EOR> 
+
+<stars>3.5</stars>

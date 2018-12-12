@@ -1,0 +1,3 @@
+meh  very meh  nice service decently quick school cafeteria level hot dogs  pretty good place someone Vegas doesn't need something fancy prestigious carnival dog  <EOR> Accessibility Parking Wait Time 1 1 Star no wait  _____  Service Waiter Cleanness Ambiance 0 1 Star fast food service  Food court    _____  Taste 0=Not Edible 1=Edible 2=Good average 3=Must Try! 2 3 Stars pretty good  Hotdogs bigger expected but art filling think  little salty side    _____  Overall Experience  3 5 Stars   _____  Last Words Food court food <EOR> 
+
+<stars>2.5</stars>

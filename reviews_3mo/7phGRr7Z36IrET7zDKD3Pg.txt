@@ -1,0 +1,3 @@
+Great Mexican food   Ive coming 16 years never bad meal   Great food great service fair prices  <EOR> 
+
+<stars>3.5</stars>

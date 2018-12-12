@@ -1,0 +1,3 @@
+The usual Del Taco   inside out   Fast efficient service   good location   Del Taco amazing cheaper food   try it! <EOR> 
+
+<stars>3.5</stars>

@@ -1,0 +1,3 @@
+Delicious food Nice combination Mediterranean Indian Pakistani Food  Low prices clean restaurant good customer service  <EOR> The chicken seekh kabob very moist tender absolutely delicious  mint chutney very rich flavorful  also tried chicken karahi which yummy  prize very cheap reasonable  Plus staff friendly! <EOR> 
+
+<stars>3.5</stars>

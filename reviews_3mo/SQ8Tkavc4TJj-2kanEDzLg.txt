@@ -1,0 +1,3 @@
+Its just pizza  bad  Taste good actually  However downfall price  Its cheap! <EOR> 
+
+<stars>4.0</stars>
