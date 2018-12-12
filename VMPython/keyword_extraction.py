@@ -32,16 +32,13 @@ def keyword_extraction(data, t = 5, k = 2):
     v_ind = np.argsort(v)
     return(([(word_list[w], v[w]) for w in v_ind[-t:]], [(sentences[w], u[w]) for w in u_ind[-k:]]))
 
-def main():
-    directory = "test_files"
-    results = read_dir(directory)
-    for r in results:
-        business_id = r[1]
-        data = r[0]
-        keywords = keyword_extraction(data[0])
-        filename = business_id + "keywords.pkl"
-        with open("keywords/"+filename) as f:
-            pickle.dump(data)
 
-main()
-    
+directory = "reviews_3mo"
+results = read_dir(directory)
+for r in results:
+    business_id = r[1]
+    data = r[0]
+    keywords = keyword_extraction(data[0])
+    filename = business_id + "keywords.pkl"
+    with open("keywords/"+filename) as f:
+        pickle.dump(data)

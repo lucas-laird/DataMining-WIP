@@ -140,22 +140,20 @@ def checkResolving(M):
 #         if result:
 #             R = result
 #     return(is_resolving,R)
-def main():
-    directory = "test_files"
-    result = read_dir(directory)
-    G = gen_graph(result)
-    graph_data = (list(G.nodes),list(G.edges))
-    with open("graph_data.graph","wb") as f:
-        pickle.dump(graph_data,f)
 
-    print("number of unique words across all docs: {}".format(len(G.nodes)))
-    R = gen_trees_sets(G,num_trees = 3, union = False)
-    print("Size of resolving set R: {}".format(len(R)))
-    M = distanceMatrix(G,R = R)
-    is_resolving = checkResolving(M)
-    if (is_resolving):
-        print("Set R is resolving")
-        with open("working_R.set","wb") as f:
-            pickle.dump(R,f)
+directory = "reviews_3mo"
+result = read_dir(directory)
+G = gen_graph(result)
+graph_data = (list(G.nodes),list(G.edges))
+with open("graph_data.graph","wb") as f:
+    pickle.dump(graph_data,f)
 
-main()
+print("number of unique words across all docs: {}".format(len(G.nodes)))
+R = gen_trees_sets(G,num_trees = 3, union = False)
+print("Size of resolving set R: {}".format(len(R)))
+M = distanceMatrix(G,R = R)
+is_resolving = checkResolving(M)
+if (is_resolving):
+    print("Set R is resolving")
+    with open("working_R.set","wb") as f:
+        pickle.dump(R,f)
