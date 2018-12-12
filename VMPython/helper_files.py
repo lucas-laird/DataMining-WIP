@@ -4,7 +4,7 @@ import re
 
 def read_file(filename):
     stopWords = set(stopwords.words('english'))
-    with open(filename, 'r') as f:
+    with open(filename, 'r',encoding = 'utf-8', errors = 'surrogateescape') as f:
         doc = f.read()
         reviews = doc.split('<EOR>')
     data = [];
